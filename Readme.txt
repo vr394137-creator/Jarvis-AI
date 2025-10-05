@@ -1,4 +1,5 @@
-JARVIS BY IMMORTAL PRINCE:-
+JARVIS engine = pyttsx3.init()
+voices IMMORTAL PRINCE:-
 
 Packages:
 
@@ -39,5 +40,6 @@ pip3 install SpeechRecognition
 pip3 install Translator
 
 brew install flac
+
 
 brew install portaudio
